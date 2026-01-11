@@ -30,16 +30,16 @@ Ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd <project-folder>
+   git clone https://github.com/SudeepNPatil/Hedamo-intern-task.git
+   cd Hedamo-intern-task
    npm install or yarn install
    npm run dev or yarn dev
    ```
 
 ### Project structure & Routing
 
-- / – Product list page displaying all product disclosures.
-- /productdetails - Product detail page showing full disclosure information for a selected product.
+- `/ ` - Product list page displaying all product disclosures.
+- `/productdetails` - Product detail page showing full disclosure information for a selected product.
 
 - routing is handled using the react-router-dom.
 
